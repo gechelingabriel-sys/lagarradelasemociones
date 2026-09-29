@@ -1,0 +1,16 @@
+El proyecto original utilizaba/documentaba estos assets:
+
+capa_1_base.png
+capa_2_garra.png
+capa_3_frontal.png
+claw_clip_mask.png
+monster_turquesa.png
+monster_rojo.png
+monster_verde.png
+monster_pulpo.png
+monster_amarillo.png
+monster_morado.png
+monster_celeste.png
+
+Colócalos en esta carpeta si recuperas los PNG originales.
+La versión actual funciona sin ellos mediante representación CSS.
